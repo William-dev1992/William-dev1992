@@ -1,4 +1,4 @@
-# Hii, I'm William Ferreira! <img src="https://tenor.com/view/sprite-pokemon-lucario-gif-13699376.gif" data-canonical-src="https://tenor.com/view/sprite-pokemon-lucario-gif-13699376" width="50" />
+# Hii, I'm William Ferreira! <img src="https://tenor.com/view/mega-lucario-pokemon-gif-20275580.gif" data-canonical-src="https://tenor.com/view/mega-lucario-pokemon-gif-20275580" width="50" />
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=William-dev1992&show_icons=true&theme=radical)
