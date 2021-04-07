@@ -12,8 +12,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=William-dev1992&layout=compact&show_icons=true&theme=radical)](https://github.com/William-dev1992/github-readme-stats)
 
-<br/>
-
 ### How to reach me:
 
 [![Email badge](https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williamferreira132003@gmail.com?subject=Hello)
