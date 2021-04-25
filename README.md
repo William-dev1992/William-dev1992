@@ -4,7 +4,7 @@
 
 ⚡ Currently mastering: **_Vanilla JavaScript_** 
 
-📚 Currently learning: **_TDD, Python, React, Next.js_**
+📚 Currently learning: **_TDD, Python3, Django, React, Next.js_**
 
 <br/>
 
