@@ -2,7 +2,7 @@
 
 <br/>
 
-⚡ Currently mastering: **_JavaScript_, _TypeScript_, _Vue.js_, _Python3_, _MySql_** 
+⚡ Currently mastering: **_JavaScript_, _TypeScript_, _Vue.js_, _ReactJs_, , _NextJs_, _NuxtJs_, _Python3_, _MySql_** 
 
 <br/>
 
